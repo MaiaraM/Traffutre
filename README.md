@@ -1,4 +1,4 @@
- Traffuture
+# TRAFFUTURE
 
 # O que é o Traffuture 
 O Traffuture é um aplicativo mobile desenvolvido pela equipe GalaxyWare, com o intuito de causar um primeiro impacto em seus usuários, alertando-os sobre um assunto pouco conscientizado, luta que a ONU vem travando a alguns anos para combater o tráfico por meio da conscientização da população. 
